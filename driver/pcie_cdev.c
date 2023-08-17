@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier:GPL-2.0-only
  * pcie_cdev.c the pcie device driver
  *
- *Copyright (C) 2023 <wangsongtao2007@163.com>
+ *Copyright (C) 2023 <wangsongtao2011@163.com>
  *
  */
 #include "pcie.h"
